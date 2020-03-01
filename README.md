@@ -1,2 +1,12 @@
-# Project-2
-Project 2 Investment
+Summarize the project and what problem it was solving.
+  The project was based on creating a investment program that can store multiple variables of your investment portfolio. It gives the user commands to invest money monthly, monthly deposits, and the amount of that could be accumulated over the years. IT essentially was not solving a problem, but creating a program for users worldwide to be able to track their deposists and invesment income.
+What did you do particularly well?
+  This was by far the one of the better projects for me, as I was very proficient with many things in this project. I had an easy time giving input/output for the data inputs that will be shown to the user on the display. Twoards the end of the program, I excelled in the calculation equations for the month end interest, month end total, as well as monthly interest. I searched online and converted the equations to match my code to be displayed to the user when they use the right input for the calculation of the equations.
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+  I think the organisation of my code could been done better, as well as the consistency with which my code is written. When I begin to write my code, I always have to go back and create better whitespace and organisation, which I should be doing from the beginning to have consistent code throughout, even though this project I felt like it was easier to have very balanced code.
+Did you find writing any piece of this code challenging, and how did you overcome this?
+  The calculationm for the monthly interest, calculate month end interest, and month end total hard during the beginning process of writing my code. I had a hard time getting the varibales correct for writing the equation properly, but used a google search to find the equations and then find a way to match up the variables. I will be adding khah academy to my resources, as well as some of the resources throughout the course, like the code of ethics ones seen.
+What skills from this project will be particularly transferable to other projects and/or course work?
+  The skills from this project, like inputting the right input/output variables, as well as having mathmatical expression gives values to users, will be used in other courses in the future.
+How did you make this program maintainable, readable, and adaptable?
+  By creating code thats easily readable, comprehensible,a dn easy for other codes to follow and understand. It terms of adaptability, the code needs to be mallable and other coders must be able to use it, as well as understand how it functions to increase the way it can be adatped into other parts of the industry.
